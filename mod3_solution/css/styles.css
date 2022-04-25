@@ -1,0 +1,72 @@
+body {
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    background-color: #191b1d;
+    font-family: sans-serif;
+}
+
+#header-nav {
+    background-color: #000836;
+    border-radius: 0;
+    border: 1px;
+}
+
+.items {
+    color: black;
+    
+}
+
+.centrado{
+    text-align: center;
+    font-size: 1.5em;
+}
+
+
+.navbar-brand {
+    /* Restaurant name */
+    font-family: sans-serif;
+    color: #ffffff;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+
+.text-center {
+    margin-top: 50px;
+    font-size: 1.5em;
+}
+
+.chicken-tile {
+    text-align: center;
+    margin-top: 50px;
+    background-color: #ffffff;
+    color: #000836;
+}
+
+.beef-tile {
+    text-align: center;
+    margin-top: 50px;
+    background-color: #ffffff;
+    color: #000836;
+}
+
+.rice-tile {
+    text-align: center;
+    margin-top: 50px;
+    background-color: #ffffff;
+    color: #000836;
+    margin-bottom: 50px;
+}
+
+.titulo-seccion{
+    font-weight: bold;
+    font-size: 1.5em;
+}
